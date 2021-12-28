@@ -7,3 +7,6 @@ You can download the game from here, I have uploaded the file, all you need to d
 
 Here is one screenshot from the game
 
+![Mad Dash Screenshot](https://user-images.githubusercontent.com/96609390/147528173-8f766bdd-3355-4ba2-949f-ad2d48cb0c3a.JPG)
+
+It is lame I know it lol
